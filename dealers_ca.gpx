@@ -1,0 +1,978 @@
+<gpx version="1.1" creator="PowerShell">
+  <wpt lat="42.261105" lon="-82.459017">
+    <name>Hudson Motorcycles</name>
+    <desc>Address: 3900 Richardson Side Road , Tilbury, ON N0P 2L0
+
+Phone: 519-682-2430
+
+Services: Street, Offroad
+
+Hours: 
+MONDAY - FRIDAY: 9:00AM - 5:30 PM
+SATURDAY: 9:00 AM - 1:00 PM
+SUNDAY: CLOSED</desc>
+    <url>www.hudsonmotorcycles.com</url>
+  </wpt>
+  <wpt lat="48.373579" lon="-89.302164">
+    <name>EXCALIBUR MOTORCYCLE WORKS</name>
+    <desc>Address: 1425 WALSH ST W CANADA, THUNDER BAY, ON P7E 4X6
+
+Phone: 8076220007
+
+Services: Street, Offroad
+
+Hours: 
+MON 9-6TUE 9-6WED 9-6THU 9-6FRI 9-6SAT 10-4SUN CLOSED</desc>
+    <url>www.excaliburmotorcycleworks.com</url>
+  </wpt>
+  <wpt lat="43.340717" lon="-81.478698">
+    <name>Country Corners</name>
+    <desc>Address: 586 Main Street CANADA, Exeter, ON N0M 1S1
+
+Phone: (519) 235-3456
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Wed/Fri: 9:00am-5:30pmThu: 9:00am-8:00pmSat: 9:00am-3:00pmSun:  Closed</desc>
+    <url>www.countrycorners.net</url>
+  </wpt>
+  <wpt lat="42.838512" lon="-80.756615">
+    <name>Chesterman's KTM</name>
+    <desc>Address: 14493 Bayham Drive , Tillsonburg, ON N4G 4G8
+
+Phone: (519) 842-5977
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Fri: 9:00-5:30pmSat: 9:00am-3:00pmSun: Closed</desc>
+    <url>www.chesterman.ca</url>
+  </wpt>
+  <wpt lat="49.885094" lon="-97.059103">
+    <name>Ronds KTM</name>
+    <desc>Address: 1350 Dugald Road , Winnipeg, MB R2J 0H2
+
+Phone: 204-237-5800
+
+Services: Street, Offroad
+
+Hours: 
+Mon:830-8Tue-Wed: 830-530Thursday:830-8Fri:830-530Sat: 9-4Sun: Closed</desc>
+    <url>www.rondsmarine.com</url>
+  </wpt>
+  <wpt lat="49.880302" lon="-99.939934">
+    <name>S.A.R. SPORT AND RECREATION</name>
+    <desc>Address: 1620 1ST STREET NORTH CANADA, BRANDON, MB R7C 1A4
+
+Phone: 2047251117
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Fri: 8:30am-5:30pmSat: 10:00am-2:00pmSun: Closed</desc>
+    <url>WWW.SARPOWERSPORTS.COM</url>
+  </wpt>
+  <wpt lat="43.415462" lon="-80.31501">
+    <name>Apex Cycle Sports</name>
+    <desc>Address: 8 Schiedel Court , Cambridge, ON N3C 0H1
+
+Phone: 5198808800
+
+Services: Street, Offroad
+
+Hours: 
+Mon: ClosedTue-Sat: 9:00am-5:00pmSun: Closed</desc>
+    <url>www.apexcycle.ca</url>
+  </wpt>
+  <wpt lat="43.43236" lon="-79.712983">
+    <name>KTM of Oakville</name>
+    <desc>Address: 1174 South Service Road West , Oakville, ON L6L 5T7
+
+Phone: 9056817270
+
+Services: Street, Offroad
+
+Hours: 
+Sun-Mon: ClosedTues-Friday: 9-6Sat: 9-4</desc>
+    <url>www.peakpowersports.ca</url>
+  </wpt>
+  <wpt lat="43.043114" lon="-79.36132">
+    <name>CLARE'S CYCLE &amp; SPORTS</name>
+    <desc>Address: 799 HWY 20, RR#4 CANADA, FENWICK, ON L0S 1C0
+
+Phone: 9058922664
+
+Services: Street, Offroad
+
+Hours: 
+Mon: ClosedTue-Fri: 9:00am-6:00pmSat: 9:00am-3:00pmSun: Closed</desc>
+    <url>WWW.CLARESCYCLE.COM</url>
+  </wpt>
+  <wpt lat="44.326844" lon="-79.88944">
+    <name>Mission Cycle by Peak Powersports</name>
+    <desc>Address: 215 MILL STREET CANADA, ANGUS, ON L0M 1B2
+
+Phone: 7054241515
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Fri: 9:00am-5:00pm
+
+Sat: 9:00am-1:00pm
+
+Sun: Closed</desc>
+    <url>www.missioncycle.ca</url>
+  </wpt>
+  <wpt lat="43.8675" lon="-78.9175">
+    <name>GP BIKES</name>
+    <desc>Address: 1100 CHAMPLAIN COURT CANADA, WHITBY, ON L1N 6K9
+
+Phone: 9054288983
+
+Services: Street, Offroad
+
+Hours: 
+Mon/Tue/Fri: 9:30am-6:00pmWed/Thu: 9:30am-8:00pmSat: 9:30am-5:00pmSun: Closed</desc>
+    <url>www.gpbikes.com</url>
+  </wpt>
+  <wpt lat="44.403051" lon="-78.794508">
+    <name>HB CYCLE &amp; OUTDOOR CENTRE</name>
+    <desc>Address: 66 MCLARENS CREEK ROAD, RR#2 CANADA, CAMERON, ON K0M 1G0
+
+Phone: 7053282453
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Thurs: 9:00am-6:00pmFri: 9:00am-8:00pmSat: 9:00am-4:00pmSun: Closed</desc>
+    <url>www.hbcycle.com</url>
+  </wpt>
+  <wpt lat="50.46895" lon="-104.608264">
+    <name>ALSPORT SALES KTM</name>
+    <desc>Address: 1900 1ST AVE , REGINA, SK S4R 8G6
+
+Phone: 306-525-0189
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Fri: 8:00am-5:30pmSat: 8:30am-1:00pmSun: Closed</desc>
+    <url>WWW.ALSPORTSALES.COM</url>
+  </wpt>
+  <wpt lat="46.414264" lon="-80.134049">
+    <name>R.L. EQUIPMENT SALES &amp; SERVICES</name>
+    <desc>Address: 10402 HWY 17 , VERNER, ON P0H 2M0
+
+Phone: 7055942373
+
+Services: Street, Offroad
+
+Hours: 
+Monday: Closed
+Tuesday-Friday: 8AM-5:30PM
+Saturday: 8AM-3PM
+Sunday: Closed</desc>
+    <url>WWW.RLEQUIPMENT.COM</url>
+  </wpt>
+  <wpt lat="44.497265" lon="-77.586945">
+    <name>ORANGE MOTORSPORTS LTD.</name>
+    <desc>Address: 104221 Highway 7 , Marmora, ON K0K 2M0
+
+Phone: (613) 473-4334
+
+Services: Offroad
+
+Hours: 
+Monday: ClosedTues-Fri: 8:00am-5:00pmSaturday: ClosedSunday: Closed</desc>
+    <url>www.orangemotorsports.ca</url>
+  </wpt>
+  <wpt lat="44.884603" lon="-76.364886">
+    <name>WOODY'S CYCLES</name>
+    <desc>Address: 1542 5TH CONCESSION RR#7 CANADA, PERTH, ON K7H 3C9
+
+Phone: 6132676861
+
+Services: Offroad
+
+Hours: 
+Mon, Tues: 9:00am-5:00pmWed: ClosedThurs: By Appt.Fri: 9:00am-2:00pmSun: Closed</desc>
+    <url>www.woodys-cycles.com</url>
+  </wpt>
+  <wpt lat="48.260449" lon="-79.021735">
+    <name>MOTO SPORT DE LA CAPITALE</name>
+    <desc>Address: 1100, RUE SAGUENAY CANADA, ROUYN- NORANDA, QC J9X 7B6
+
+Phone: 8197627714
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Wed: 8:30am-5:30amThu-Fri: 8:30am-8:30pmSat: 9:00am-12:00pmSun: Closed</desc>
+    <url>www.motosportdelacapitale.com</url>
+  </wpt>
+  <wpt lat="50.009708" lon="-110.730698">
+    <name>Southland Powersports</name>
+    <desc>Address: 3141 Gershaw Drive SW , Medicine Hat, AB T1B 3N1
+
+Phone: 403-527-7202
+
+Services: Street, Offroad
+
+Hours: 
+Tuesday-Friday: 8:00 AM - 6:00 PM
+Saturday: 8:30 AM - 6:00 PM
+Closed: Sunday, Monday &amp; Holidays</desc>
+    <url>www.southlandpowersports.ca</url>
+  </wpt>
+  <wpt lat="52.28492" lon="-106.669785">
+    <name>REV MOTORSPORTS &amp; MARINE LTD</name>
+    <desc>Address: 409 CENTENNIAL DRIVE CANADA, MARTENSVILLE, SK S0K 2T0
+
+Phone: 3069555955
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Fri: 9:00am-6:00pmSat: 10:00am-3:00pmSun: Closed</desc>
+    <url>www.revmotorsports.ca</url>
+  </wpt>
+  <wpt lat="48.089962" lon="-77.885872">
+    <name>MARTIN TOUT TERRAIN</name>
+    <desc>Address: 111 Rue Alfred Fortin CANADA, VAL-D'OR, QC J9P 4N7
+
+Phone: 8198244575
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Thu: 8:00am-5:30pmFri: 8:00am-9:00pmSat: 9:00am-12:00pmSun: Closed</desc>
+    <url>www.martintoutterrain.ca</url>
+  </wpt>
+  <wpt lat="45.462637" lon="-75.550438">
+    <name>WHEELSPORT</name>
+    <desc>Address: 1390 YOUVILLE DRIVE CANADA, ORLEANS, ON K1C 2X8
+
+Phone: 6138419400
+
+Services: Street, Offroad
+
+Hours: 
+Monday to Friday 9-6Saturday 9-4Sunday -closed</desc>
+    <url>www.wheelsport.on.ca</url>
+  </wpt>
+  <wpt lat="45.041314" lon="-74.759772">
+    <name>IRWIN SUPPLY CORNWALL LTD.</name>
+    <desc>Address: 423 TOLLGATE ROAD WEST CANADA, CORNWALL, ON K6H 5R6
+
+Phone: 6139334600
+
+Services: Offroad
+
+Hours: 
+Mon-Thus: 8:30-5:30pmFri: 8:30-6:00pmSat: 9:00am-3:00pmSun: Closed</desc>
+    <url>www.irwinsupply.com</url>
+  </wpt>
+  <wpt lat="49.697438" lon="-112.829827">
+    <name>LETHBRIDGE HONDA CENTRE</name>
+    <desc>Address: 1117 2ND AVENUE S CANADA, LETHBRIDGE, AB T1J 0E1
+
+Phone: 4033272777
+
+Services: Street, Offroad
+
+Hours: 
+MON - FRI 830-5SAT 8-5SUN CLOSED</desc>
+    <url>www.lethbridgehonda.com</url>
+  </wpt>
+  <wpt lat="45.61059" lon="-74.60463">
+    <name>Maximum Powersports Plus</name>
+    <desc>Address: 189 John St. , Hawkesbury, ON K6A 1Y1
+
+Phone: 613-632-3462
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Fri 9-5
+Sat/Sun - Closed</desc>
+    <url>www.maximumpowersports.ca</url>
+  </wpt>
+  <wpt lat="45.408991" lon="-74.041549">
+    <name>Contant Vaudreuil</name>
+    <desc>Address: 140 rue Aim??-Vincent CANADA, Vaudreuil-Dorion, QC J7V 5V5
+
+Phone: (514) 360-6676
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Wed: 9:00am-6:00pmThu-Fri: 9:00am-9:00pmSat: 9:00am-5:00pmSun: Closed</desc>
+    <url>www.contant.ca</url>
+  </wpt>
+  <wpt lat="45.805201" lon="-74.017799">
+    <name>Goulet Moto Sports</name>
+    <desc>Address: 55 Mathilde , St Jerome, QC J7Y 1E3
+
+Phone: 450-431-6622
+
+Services: Street, Offroad
+
+Hours: 
+LUN - VEN
+9H - 18H
+SAM - DIM
+Ferm??</desc>
+    <url>https://www.gouletmoto.ca/</url>
+  </wpt>
+  <wpt lat="45.686398" lon="-73.925716">
+    <name>Contant Mirabel</name>
+    <desc>Address: 18000 J.A. Bombardier CANADA, Mirabel, QC J7J 2H8
+
+Phone: (450) 434-6676
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Wed: 8:30am-6:00pmThu-Fri: 8:30am-9:00pmSat: 9:00am-5:00pmSun: Closed</desc>
+    <url>www.contant.ca</url>
+  </wpt>
+  <wpt lat="45.334283" lon="-73.730258">
+    <name>Moto Duroy</name>
+    <desc>Address: 310 BOUL ST-JEAN BAPTISTE , Mercier, QC J6R 2B6
+
+Phone: 450-692-6222
+
+Services: Street, Offroad
+
+Hours: 
+Thursday	9AM???8PM
+Friday	9AM???7PM
+Saturday	9AM???3PM
+Sunday	Closed
+Monday	9AM???6PM
+Tuesday	9AM???6PM
+Wednesday	9AM???6PM</desc>
+    <url>https://www.duroymotosport.ca/</url>
+  </wpt>
+  <wpt lat="45.493031" lon="-73.658951">
+    <name>EXCEL MOTO</name>
+    <desc>Address: 5480 PARE , MONT-ROYAL, QC H4P 2M1
+
+Phone: 514-738-6686
+
+Services: Street, Offroad
+
+Hours: 
+Monday:
+8:00 a.m. to 6:00 p.m.
+Tuesday:
+8:00 a.m. to 6:00 p.m.
+Wednesday:
+8:00 a.m. to 6:00 p.m.
+Thursday:
+8:00 a.m. to 6:00 p.m.
+Friday:
+8:00 a.m. to 6:00 p.m.
+Saturday:
+10am-3:00pm
+Sunday:
+Closed</desc>
+    <url>WWW.EXCELMOTO.COM</url>
+  </wpt>
+  <wpt lat="45.724796" lon="-73.691237">
+    <name>MOTOS ILLIMITEES</name>
+    <desc>Address: 3250 BOUL DES ENTREPRISES CANADA, TERREBONNE, QC J6X 4J8
+
+Phone: 4504774000
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Wed: 9:00am-6:00pmThu-Fri: 9:00am-9:00pmSat: 9:00am-4:00pmSun: Closed</desc>
+    <url>WWW.MOTOSILLIMITEES.COM</url>
+  </wpt>
+  <wpt lat="45.528501" lon="-73.23105">
+    <name>Mathias Sports</name>
+    <desc>Address: 874 Chemin des Patriotes CANADA, Saint-Mathias, QC J3L 6A2
+
+Phone: (438) 315-0968
+
+Services: Street, Offroad
+
+Hours: 
+Monday-Friday: 9AM to 5PM
+Saturday: 10AM-4PM</desc>
+    <url>www.mathiassports.com</url>
+  </wpt>
+  <wpt lat="46.100451" lon="-73.419775">
+    <name>Gregoire Sport</name>
+    <desc>Address: 2061 Route 131 , Notre-Dame-de-Lourde, QC J0K 1K0
+
+Phone: 4507528395
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Wed: 9:00am-5:30pm
+
+Thurs, Fri: 9:00am-9:00pm
+
+Sat: 9:00am-3:00pm
+
+Sun: Closed</desc>
+    <url>www.gregoiresport.com</url>
+  </wpt>
+  <wpt lat="49.530268" lon="-115.745815">
+    <name>PEAK PERFORMANCE MOTORSPORTS (2012)</name>
+    <desc>Address: 1924 Cranbrook St N CANADA, CRANBROOK, BC V1C 3T1
+
+Phone: 2504173310
+
+Services: Street, Offroad
+
+Hours: 
+Mon: ClosedTue-Sat: 8:30am-5:50pmSun: Closed</desc>
+    <url>WWW.PEAKPERFORMANCECRANBROOK.COM</url>
+  </wpt>
+  <wpt lat="45.421156" lon="-72.77932">
+    <name>PICOTTE MOTOSPORT INC.</name>
+    <desc>Address: 1257 PRINCIPALE CANADA, GRANBY, QC J2J 0M3
+
+Phone: 4507775486
+
+Services: Street, Offroad
+
+Hours: 
+Monday-Friday: 9:00am-5:00pm
+Saturday-Sunday: Closed</desc>
+    <url>www.picottemotosport.com</url>
+  </wpt>
+  <wpt lat="51.011932" lon="-114.04654">
+    <name>BARNES POWERSPORTS BLACKFOOT</name>
+    <desc>Address: 6 HIGHFIELD CIRCLE S.E. CANADA, CALGARY, AB T2G 5N5
+
+Phone: 4032432636
+
+Services: Street, Offroad
+
+Hours: 
+MON: CLOSED
+TUES-FRI: 10AM- 6PM
+SAT: 9AM-5PM
+SUN:CLOSED</desc>
+    <url>www.blackfootonline.com</url>
+  </wpt>
+  <wpt lat="51.089297" lon="-114.0495">
+    <name>CYCLE WORKS CALGARY</name>
+    <desc>Address: 4127 6TH STREET NE CANADA, CALGARY, AB T2E 6V5
+
+Phone: 4032301920
+
+Services: Street, Offroad
+
+Hours: 
+Mon ClosedTue-Fri 9-5:30Sat 10-4Sun Closed</desc>
+    <url>www.cycleworks.com</url>
+  </wpt>
+  <wpt lat="46.572422" lon="-72.720405">
+    <name>MVM MOTOSPORT</name>
+    <desc>Address: 5970 Boul. Royal CANADA, SHAWINIGAN, QC G9N 4R8
+
+Phone: 8195375136
+
+Services: Street, Offroad
+
+Hours: 
+Monday-Wednesday: 8AM to 5:30PM 
+Thursday:  8AM to 8PM
+Friday:       8AM to 5:30PM 
+Saturday:   9AMto 12PM</desc>
+    <url>mvmmotosport.com</url>
+  </wpt>
+  <wpt lat="46.383665" lon="-72.520162">
+    <name>MOTOSPORT 4 SAISONS</name>
+    <desc>Address: 465 RUE DESSUREAULT CANADA, TROIS-RIVIERES, QC G8T 2L8
+
+Phone: 8193744444
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Wed: 8:00am-5:00pm
+
+Thursday: 8:00am-8:00pm
+
+Friday: 8:00am-6:00pm
+
+Sat: 8:00am-1:00pm
+
+Sun: Closed</desc>
+    <url>www.motosport4saisons.com</url>
+  </wpt>
+  <wpt lat="45.373223" lon="-71.983171">
+    <name>Rock Moto Sport KTM</name>
+    <desc>Address: 989 rue Fortier Sud , Sherbrooke, QC J1N 2C4
+
+Phone: (819) 564-8008
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Wed: 8:30am-5:30pmThur-Fri: 8:30am-7:00pmSat: 9:00am-12:00pmSun: Closed</desc>
+    <url>www.rockmotosport.com</url>
+  </wpt>
+  <wpt lat="52.214766" lon="-113.815263">
+    <name>TURPLE BROS. LTD.</name>
+    <desc>Address: 175 LEVA AVENUE CANADA, RED DEER COUNTY, AB T4E 0A5
+
+Phone: 4033465238
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Wed 9-6Thu 9-8Fri 9-6Sat 9-5:30Sun Closed</desc>
+    <url>www.turplebros.ca</url>
+  </wpt>
+  <wpt lat="46.031194" lon="-71.933096">
+    <name>JA-PER-FORMANCE</name>
+    <desc>Address: 410 AVE PIE X CANADA, ST.CHRIST D'ARTHAB, QC G6R 0M9
+
+Phone: 8193579677
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Sat: 9:00am-6:00pmSun: Closed</desc>
+    <url>www.jpfracing.com</url>
+  </wpt>
+  <wpt lat="49.515145" lon="-117.284213">
+    <name>MAINJET MOTORSPORTS</name>
+    <desc>Address: 708 HIGHWAY 3A CANADA, NELSON, BC V1L 6M6
+
+Phone: 2503523191
+
+Services: Street, Offroad
+
+Hours: 
+Monday: ClosedTue-Sat: 8:00am-5:30pmSunday: Closed</desc>
+    <url>www.mainjet.ca</url>
+  </wpt>
+  <wpt lat="52.362558" lon="-114.912079">
+    <name>Riderz</name>
+    <desc>Address: 4140-45A STREET CANADA, ROCKY-MTN-HSE, AB T4T 1B1
+
+Phone: 7087235775
+
+Services: Street, Offroad
+
+Hours: 
+MON - FRI 9:00am - 6:00pm
+
+SAT 9:00am- 2:00pm
+
+SUN CLOSED</desc>
+    <url>www.riderz.ca</url>
+  </wpt>
+  <wpt lat="46.854096" lon="-71.360814">
+    <name>SM Sport</name>
+    <desc>Address: 11337 boulevard  Valcartier CANADA, Quebec, QC G2A 2M4
+
+Phone: 418-842-2703
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Wed: 9:00am-5:30pmThu: 9:00am-8:00pmFri: 9:00am-6:00pmSat-Sun: Closed</desc>
+    <url>www.smsport.ca</url>
+  </wpt>
+  <wpt lat="53.493498" lon="-113.44402">
+    <name>CYCLE WORKS</name>
+    <desc>Address: 5688 75TH STREET CANADA, EDMONTON, AB T6E 5X6
+
+Phone: 7804403200
+
+Services: Street, Offroad
+
+Hours: 
+Mon: ClosedTues 9-6Wed 9-6Thur 9-8Fri 9-6Sat 9-5Sun: closed</desc>
+    <url>www.cycleworks.com</url>
+  </wpt>
+  <wpt lat="46.75455" lon="-71.178867">
+    <name>RPM Rive Sud KTM</name>
+    <desc>Address: 226 chemin des ??les , L??vis, QC G6V 7M5
+
+Phone: 4188351624
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Wed: 8:00am-5:30pmThurs, Fri: 8:00am-9:00pmSat: 9:00am-12:00pmSun: Closed</desc>
+    <url>www.rpmrivesud.com</url>
+  </wpt>
+  <wpt lat="53.648746" lon="-113.626654">
+    <name>RIVERSIDE KTM</name>
+    <desc>Address: 1-15 Inglewood Drive CANADA, St. Albert, AB T8N 5E2
+
+Phone: 7804587272
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Fri 9am-5:30pm
+
+Sat 9am-5:00pm
+
+Sun Closed</desc>
+    <url>www.RiversideMotosports.com</url>
+  </wpt>
+  <wpt lat="48.509918" lon="-71.658752">
+    <name>Sports DRC</name>
+    <desc>Address: 3055 Avenue du Pont Sud , Alma, QC G8B 5V2
+
+Phone: 418.668.7389
+
+Services: Street, Offroad
+
+Hours: 
+HEURES D'OUVERTURE
+LUNDI : 8H00 ?? 17H00
+MARDI : 8H00 ?? 17H00
+MERCREDI : 8H00 ?? 17H00
+JEUDI : 8H00 ?? 21H00
+VENDREDI : 8H00 ?? 17H00
+SAMEDI : 9H00 ?? 12H00
+DIMANCHE : FERM??</desc>
+    <url>www.sportsdrc.com</url>
+  </wpt>
+  <wpt lat="48.452226" lon="-71.093047">
+    <name>EQUIPEMENTS VILLENEUVE</name>
+    <desc>Address: 1178 Boul. Ste-Genevi??ve CANADA, CHICOUTIMI, QC G7G 2G6
+
+Phone: 4185433600
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Wed: 8:00am-5:30pmThu-Fri: 8:00am-9:00pmSat: 9:00am-12:00pmSun: Closed</desc>
+    <url>www.equipementsvilleneuve.com</url>
+  </wpt>
+  <wpt lat="49.86466" lon="-119.564818">
+    <name>VALLEY MOTO SPORT LTD.</name>
+    <desc>Address: 100-1195 Industrial Road CANADA, West Kelowna, BC V1Z 1G4
+
+Phone: 2507693313
+
+Services: Street, Offroad
+
+Hours: 
+MON - CLOSEDTUE - THU 9-530SAT 830-5SUN - CLOSED</desc>
+    <url>www.valleymotosport.com</url>
+  </wpt>
+  <wpt lat="50.278238" lon="-119.267702">
+    <name>Riders Edge Suspension</name>
+    <desc>Address: 2705 45 Avenue , Vernon, BC V1T 3N5
+
+Phone: (250) 542-0269
+
+Services: Street, Offroad
+
+Hours: 
+9 AM ??? 5 PM Monday ??? Friday</desc>
+    <url>www.ridersedgesuspension.com</url>
+  </wpt>
+  <wpt lat="53.582836" lon="-116.359413">
+    <name>RIDERZ</name>
+    <desc>Address: 53227 RANGE ROAD 170 CANADA, YELLOWHEAD COUNTY, AB T7E 3A6
+
+Phone: 7807235775
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Fri 9-6Sat 9-2Sun Closed</desc>
+    <url>www.riderz.ca</url>
+  </wpt>
+  <wpt lat="50.680095" lon="-120.270381">
+    <name>RTR PERFORMANCE INC</name>
+    <desc>Address: 2051 E.T.E. CAN HWY CANADA, KAMLOOPS, BC V2C 4A5
+
+Phone: 2503743141
+
+Services: Street, Offroad
+
+Hours: 
+Mon: ClosedTues-Fri: 8:30am-5:30pmSat: 9:00am-5:00pmSun: Closed</desc>
+    <url>www.rtrperformance.com</url>
+  </wpt>
+  <wpt lat="56.66676" lon="-111.33619">
+    <name>4G Motorsports</name>
+    <desc>Address: 355 Mackenzie Blvd. , Fort McMurray, AB T9H 5E2
+
+Phone: 587.450.0136
+
+Services: Street, Offroad
+
+Hours: 
+Monday8:30 AM - 5:30 PMTuesday8:30 AM - 5:30 PMWednesday8:30 AM - 5:30 PMThursday8:30 AM - 6:00 PMFriday8:30 AM - 5:00 PMSaturday9:00 AM - 4:00 PMSundayClosed</desc>
+    <url>www.4Gmotorsports.ca</url>
+  </wpt>
+  <wpt lat="47.675082" lon="-68.878068">
+    <name>Roger A. Pelletier</name>
+    <desc>Address: 182 Boul Phil-Latulippe , Temiscouata sur le lac, QC G0L 1E0
+
+Phone: 418.854.2680
+
+Services: Street, Offroad
+
+Hours: 
+Monday :
+08:30 to 17:00
+Tuesday :
+08:30 to 17:00
+Wednesday :
+08:30 to 17:00
+Thusday :
+8:30 a.m. to 8:30 p.m.
+Friday :
+08:30 to 17:00
+On Saturday :
+09:00 to 12:00
+Sunday :
+Firm</desc>
+    <url>www.fautvoirpelletier.ca</url>
+  </wpt>
+  <wpt lat="49.144738" lon="-122.001315">
+    <name>Mountainview Motorsports</name>
+    <desc>Address: 44160 Yale Rd CANADA, Chilliwack, BC V2R 3Z9
+
+Phone: 6047030221
+
+Services: Street, Offroad
+
+Hours: 
+Winter Hours
+10:00 AM-5:00 PM
+Spring/Summer/Fall Hours
+10:00 AM - 6:00 PM
+
+
+
+OPEN TUE-SAT</desc>
+    <url>www.mountainviewmotorsports.ca</url>
+  </wpt>
+  <wpt lat="48.465805" lon="-68.493828">
+    <name>JUNIOR MECANIQUE</name>
+    <desc>Address: 270 DU HAVRE CANADA, RIMOUSKI, QC G5M 0B9
+
+Phone: 4187230998
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Wed: 8:00am-5:30pmThu-Fri: 8:00am-7:00pmSat-Sun: Closed</desc>
+    <url>WWW.JUNIORMECANIQUE.COM</url>
+  </wpt>
+  <wpt lat="49.163324" lon="-122.6678">
+    <name>HOLESHOT MOTOR SPORTS</name>
+    <desc>Address: 8867-201 STREET CANADA, LANGLEY, BC V2Y 0C8
+
+Phone: 6048823800
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Fri 9:30-5:30Sat 9-5Sun Closed</desc>
+    <url>www.holeshotracing.ca</url>
+  </wpt>
+  <wpt lat="49.218263" lon="-122.655046">
+    <name>MAPLE RIDGE MOTORSPORTS</name>
+    <desc>Address: 20430 LOUGHEED HIGHWAY CANADA, MAPLE RIDGE, BC V2X 2P8
+
+Phone: 6044650441
+
+Services: Street, Offroad
+
+Hours: 
+Mon ClosedTue-Fri 9-5:30Sat 9-5Sun Closed</desc>
+    <url>www.mapleridgemotorsports.com</url>
+  </wpt>
+  <wpt lat="48.430354" lon="-123.414639">
+    <name>BARNES POWERSPORTS</name>
+    <desc>Address: 1234 ESQUIMALT RD CANADA, VICTORIA, BC V9A 3N8
+
+Phone: 2503868364
+
+Services: Street, Offroad
+
+Hours: 
+MON - FRI 9-530SAT 9-5SUN CLOSED</desc>
+    <url>www.barnespowersportsvictoria.com</url>
+  </wpt>
+  <wpt lat="49.282339" lon="-123.086645">
+    <name>Daytona Motorsports KTM</name>
+    <desc>Address: 837 Cordova Street East , Vancouver, BC V6A 3R2
+
+Phone: (604) 251-1212
+
+Services: Street, Offroad
+
+Hours: 
+Mon: ClosedTues-Sat: 9:00am-5:30pmSun: Closed</desc>
+    <url>www.daytonamotorsports.ca</url>
+  </wpt>
+  <wpt lat="45.977879" lon="-66.635581">
+    <name>MacLean's Sports, Ltd.</name>
+    <desc>Address: 311 St Marys St , Fredericton, NB E3A 2S5
+
+Phone: 506.450.6090
+
+Services: Street, Offroad
+
+Hours: 
+MON-FRI 8:30AM-5:30PM
+SAT CLOSED
+SUN CLOSED</desc>
+    <url>www.macleanssports.com</url>
+  </wpt>
+  <wpt lat="49.716731" lon="-123.157162">
+    <name>NO LIMITS MOTORSPORTS</name>
+    <desc>Address: 38921 Queens Way , Squamish, BC V8B 0K9
+
+Phone: 6048154444
+
+Services: Street, Offroad
+
+Hours: 
+Mon: ClosedTue-Sat: 9:00am-6:00pmSun: Closed</desc>
+    <url>www.nolimitsmotorsports.com</url>
+  </wpt>
+  <wpt lat="52.144426" lon="-122.13705">
+    <name>Spectra Power Sports, Ltd.</name>
+    <desc>Address: 770 Broadway Ave Nth , Williams Lake, BC V2G 2V7
+
+Phone: 250-392-3201
+
+Services: Street, Offroad
+
+Hours: 
+Monday Closed
+Tuesday 8:30am - 5:30pm
+Wednesday 8:30am - 5:30pm
+Thursday 8:30am - 5:30pm
+Friday 8:30am - 5:30pm
+Saturday 9:00am - 5:00pm
+Sunday Closed</desc>
+    <url>www.spectrapowersports.com</url>
+  </wpt>
+  <wpt lat="55.196587" lon="-118.796225">
+    <name>Red Line Power Craft Ltd. KTM</name>
+    <desc>Address: 12806 100 Street , Grande Prairie, AB T8V 4H9
+
+Phone: 780-532-4313
+
+Services: Street, Offroad
+
+Hours: 
+M-F: 8-6Sat: 9-5Sun: Closed</desc>
+    <url>www.red-linepowercraft.com</url>
+  </wpt>
+  <wpt lat="49.305" lon="-124.346667">
+    <name>Spunky's</name>
+    <desc>Address: 969 FAIRDOWNE RD , PARKSVILLE, BC V9P 2T4
+
+Phone: 2502488828
+
+Services: Street, Offroad
+
+Hours: 
+Mon ClosedTue-Fri 8:30-6Sat 8:30-5Sun Closed</desc>
+    <url>www.spunkysmc.com</url>
+  </wpt>
+  <wpt lat="46.064111" lon="-64.843523">
+    <name>TOYS FOR BIG BOYS LTD.</name>
+    <desc>Address: 633 SALISBURY ROAD CANADA, MONCTON, NB E1E 1B9
+
+Phone: 5068588088
+
+Services: Street, Offroad
+
+Hours: 
+MON -FRI 9-530SAT 9-1SUN CLOSED</desc>
+    <url>www.toysforbigboys.ca</url>
+  </wpt>
+  <wpt lat="53.905242" lon="-122.756875">
+    <name>Prince George Motorsports KTM</name>
+    <desc>Address: 2005 Redwood Street , Prince George, BC V2L 2N5
+
+Phone: 2505624151
+
+Services: Street, Offroad
+
+Hours: 
+Mon: ClosedTues-Fri: 8:30am-5:30pmSat: 9:00am-5:00pmSun: Closed</desc>
+    <url>www.pgmotorsports.ca</url>
+  </wpt>
+  <wpt lat="44.718691" lon="-63.56178">
+    <name>Pro Cycle KTM</name>
+    <desc>Address: 360 Higney Avenue , Dartmouth, NS B3B 0L4
+
+Phone: (902) 468-2518
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Sat: 10:00am-5:00pm
+Sun: Closed</desc>
+    <url>www.procycleonline.com</url>
+  </wpt>
+  <wpt lat="46.401049" lon="-63.809032">
+    <name>CENTENNIAL AUTO CENTER</name>
+    <desc>Address: 616 South Drive , SUMMERSIDE, PE C1N 3Z7
+
+Phone: 902-436-1022
+
+Services: Street, Offroad
+
+Hours: 
+Monday8:00AM - 5:00PMTuesday8:00AM - 5:00PMWednesday8:00AM - 5:00PMThursday8:00AM - 5:00PMFriday8:00AM - 5:00PMSaturday8:00AM - 12:00PMSundayClosed</desc>
+    <url>www.centennialast.com</url>
+  </wpt>
+  <wpt lat="54.512734" lon="-128.549133">
+    <name>KICKSTART MOTORSPORTS</name>
+    <desc>Address: 3011 Kofoed Drive CANADA, TERRACE, BC V8G 3P8
+
+Phone: 2506351623
+
+Services: Offroad
+
+Hours: 
+Mon: ClosedTue-Sat: 8:30am-5:30pmSun: Closed</desc>
+    <url>www.kickstartmotorsports.com</url>
+  </wpt>
+  <wpt lat="47.52926" lon="-52.828524">
+    <name>FUN N' FAST</name>
+    <desc>Address: 1225 Topsail Road CANADA, MOUNT PEARL, NL A1N 3C9
+
+Phone: 7093683637
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Fri: 8:30-5:30Sat: 9:00am-3:00pmSun: Closed</desc>
+    <url>WWW.FUNNFAST.COM</url>
+  </wpt>
+  <wpt lat="60.730281" lon="-135.072006">
+    <name>YUKON HONDA</name>
+    <desc>Address: 1 CHILKOOT WAY CANADA, WHITEHORSE, YT Y1A 6T6
+
+Phone: 8676684451
+
+Services: Street, Offroad
+
+Hours: 
+Mon-Fri: 8:30am-5:30pmSat: 10:00am-3:00pmSun: Closed</desc>
+    <url>www.yukonhonda.com</url>
+  </wpt>
+</gpx>

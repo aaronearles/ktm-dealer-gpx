@@ -27,8 +27,13 @@ foreach ($dealer in $response.data) {
 
     # Add a description child element to the waypoint element
     $desc = $gpx.CreateElement("desc")
-    $desc.InnerText = $dealer.address
+    $desc.InnerText = "Address: "+ $dealer.street +", "+ $dealer.town +", "+ $dealer.region +" "+ $dealer.postcode +"`n`n" + "Phone: "+ $dealer.phone +"`n`n" + "Services: " + $dealer.productOffer + "`n`n" + "Hours: " + "`n" + $dealer.openingHour
     $wpt.AppendChild($desc)
+
+    # Add a url child element to the waypoint element
+    $url = $gpx.CreateElement("url")
+    $url.InnerText = $dealer.websiteUrl
+    $wpt.AppendChild($url)
 
     # Append the waypoint element to the GPX document
     $gpxRoot.AppendChild($wpt)
